@@ -4,6 +4,8 @@
 
 ![BeDebona/TriG](https://github-readme-stats.vercel.app/api?username=BeDebona)
 
+![snakegif](https://codeteamdn.000webhostapp.com/grid-snake.svg)
+
 ## Contact
 
 [![Dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8hyM5Nc8Jq)
@@ -15,4 +17,4 @@
 
  ### Back-End
   ![Tech](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
-![snakegif](https://codeteamdn.000webhostapp.com/grid-snake.svg)
+

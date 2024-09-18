@@ -25,8 +25,6 @@
 
 ###
 
-<img align="right" height="100" src="https://cdn.discordapp.com/attachments/951553615468826724/1285778876999405659/venya-cat.png?ex=66eb8264&is=66ea30e4&hm=a996b2d588fd3c2690865812b5d5a59b41875a2f909f03d7d04a2df2156faa84&"  />
-
 ###
 
 <div align="left">

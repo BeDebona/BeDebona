@@ -11,7 +11,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,html,css,bootstrap,lua" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,html,css,bootstrap,lua,discord" />
+  </a>
+</p>
+<p align="center" size="3px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
@@ -19,9 +24,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="discord logo"  />
-</div>
 
 ###
 

@@ -1,28 +1,31 @@
-<h2 align="left">Hi there, my name is Bernardo Debona and I dream of being a Full-Stack Developer 👨🏻‍💻</h2>
+<h1 align="center">TrigX1DeV</h1>
 
-###
+<h3 align="center">Full-Stack Developer (in progress) 👨🏻‍💻 | Passionate about Code</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeDebona&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+---
 
-###
+### 🧠 About Me
+- 💻 Dreaming of becoming a **Full-Stack Developer**  
+- ⚙️ Currently working **React**, **Node.js**, and **TypeScript**  
+- 🕹️ Developing NUI for **FiveM** 
+- 🌎 Based in Brazil, always open to collaborations  
 
+---
+
+### 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,ts,css,bootstrap,lua,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,lua,git,github,figma&perline=6" />
   </a>
 </p>
 
-###
+---
 
-###
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BeDebona&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeDebona&theme=dark&hide_border=true" height="150" alt="GitHub streak" />
+</div>
 
+---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BeDebona/BeDebona/output/snake.svg" alt="Snake animation" />
-
-###

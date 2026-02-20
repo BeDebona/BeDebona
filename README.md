@@ -23,7 +23,6 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeDebona&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeDebona&theme=dark&hide_border=true" height="150" alt="GitHub streak" />
 </div>
 

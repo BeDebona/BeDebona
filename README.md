@@ -6,8 +6,7 @@
 
 ### 🧠 About Me
 - 💻 Dreaming of becoming a **Full-Stack Developer**  
-- ⚙️ Currently working **React**, **Node.js**, and **TypeScript**  
-- 🕹️ Developing NUI for **FiveM** 
+- ⚙️ Currently working **React**, **Node.js**, and **TypeScript** 
 - 🌎 Based in Brazil, always open to collaborations  
 
 ---
